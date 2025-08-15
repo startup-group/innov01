@@ -1,7 +1,0 @@
-contains(属性名，字符串)：使用文本匹配，功能很强大
-starts-with(属性名，字符串）：根据开头进行模糊匹配
-ends-with(属性名，字符串）：根据结尾内容进行匹配
-matchs(属性名，字符串）：根据正则进行匹配
-
-By.xpath("//*[contains(text(),'ok')]")
-By.xpath("//span[starts-with(@type,'1')]")
